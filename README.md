@@ -78,11 +78,8 @@ Geekbyuing.com is leading E-Commerce website for smart electronics gadgets.
 ## Team
 
 - Gautam Gohil
-- Dathu Ram
+- Dathu Ram Reddy Papannagari
 - Saradhi Mopada
 - Biman Gharai
 - Nikesh Hiwraj Borkar
 - Rojalini Das
-## Authors
-
-- [@Gautam Gohil](https://github.com/gautam6023)
