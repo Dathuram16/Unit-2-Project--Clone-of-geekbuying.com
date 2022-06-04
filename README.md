@@ -48,23 +48,14 @@ Geekbyuing.com is leading E-Commerce website for smart electronics gadgets.
 
 ![Screenshot from 2022-02-27 20-57-05.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645976977453/Syoyw5ZJX.png)
 
-
-
-![Screenshot from 2022-02-27 20-57-13.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645977058939/RFwDg5uqJ.png)
-
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952211716/aSboxm1Phc.png)
-
-
 
 ![2022-02-27 (5).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645974613126/Qu0VM_qxC.png)
 
-
-
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952352339/FP-TI7Jbr.png)
 
-
-
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952436530/5Y4-JLPNF.png)
+
 ## Challenges
 
 1. As every journey has some challenges and so was ours. In our team, all of the members were not familiar with each other so it was difficult for all of us to communicate and collaborate, there were some moments where members were not able to communicate with each other and had a conflict and it was hard for everyone to handle these conflicts.
